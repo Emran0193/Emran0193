@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Developer | Angular | .NET | SQL
 ----------------------------------------------------
 
-Greetings! I'm Emran Husain, a results-driven Full Stack Software Developer with a passion for crafting robust and scalable solutions. With a strong foundation in Angular, .NET, and SQL technologies, I bring 5+ years of experience in delivering end-to-end software solutions. \*\*Tech Stack:\*\* - Frontend: Angular, TypeScript, JavaScript, HTML, CSS - Backend: .NET 5/7, C#, ASP.NET Core, ASP.NET MVC - Database: SQL Server, T-SQL, PostgreSQL - Web Servers: Microsoft’s Internet Information Server (IIS)
+Greetings! I'm Emran Husain, a results-driven Full Stack Software Developer with a passion for crafting robust and scalable solutions. With a strong foundation in Angular, .NET, and SQL technologies, I bring 5+ years of experience in delivering end-to-end software solutions. <br /><br /> \*\*Tech Stack:\*\* -<br /><br /> Frontend: Angular, TypeScript, JavaScript, HTML, CSS <br /><br /> Backend: .NET 5/7, C#, ASP.NET Core, ASP.NET MVC <br /><br /> Database: SQL Server, T-SQL, PostgreSQL <br /><br /> Web Servers: Microsoft’s Internet Information Server (IIS)
 
 *   🌍  I'm based in India<a href="https://www.github.com/Emran0193" target="_blank" rel="noreferrer"></a>
 <br />
