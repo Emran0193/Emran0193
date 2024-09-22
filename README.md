@@ -42,10 +42,8 @@
 <body>
     <div class="container">
         <h1>About Me</h1>
-        <p>Hi, I'm <strong>Emran Husain</strong>, a passionate Full Stack Developer specializing in .NET, Angular, JavaScript, TypeScript, HTML, and CSS. I enjoy creating efficient, scalable, and user-friendly web applications. With a deep understanding of both front-end and back-end technologies, I aim to build solutions that meet user needs and align with business goals.</p>
-        
+        <p>Hi, I'm <strong>Emran Husain</strong>, a passionate Full Stack Developer specializing in .NET, Angular, JavaScript, TypeScript, HTML, and CSS. I enjoy creating efficient, scalable, and user-friendly web applications. With a deep understanding of both front-end and back-end technologies, I aim to build solutions that meet user needs and align with business goals.</p>        
         <p>I am always open to learning new technologies and improving my skills. My focus is on delivering high-quality software solutions and collaborating with teams to achieve the best possible outcomes.</p>
-
         <div class="linkedin">
             <p>Connect with me on <a href="https://linkedin.com/in/emranhusain" target="_blank">LinkedIn</a> for more information.</p>
         </div>
